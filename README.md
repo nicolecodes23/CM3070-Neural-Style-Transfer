@@ -19,7 +19,7 @@ The primary implementation is contained in:
 
 This notebook contains the complete Neural Style Transfer pipeline, experimental runs, generated visualisations, stylisation progression images, quantitative evaluation, and experimental analysis.
 Because the notebook contains a large number of saved experimental outputs and visualisations, GitHub's built-in notebook preview may not always render the file successfully.
-The notebook can be opened directly in Google Colab:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicolecodes23/CM3070-Neural-Style-Transfer/blob/main/FinalProjectCM3070.ipynb)
+The notebook can be opened directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicolecodes23/CM3070-Neural-Style-Transfer/blob/main/FinalProjectCM3070.ipynb)
 
 ---
 
