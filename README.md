@@ -156,7 +156,7 @@ An NVIDIA T4 GPU or equivalent is suitable.
 
 Select:
 
-`Runtime → Run all`
+`Runtime -> Run all`
 
 The notebook is configured to retrieve the required project files from the public GitHub repository and access the images stored in the `inputs/` directory.
 
