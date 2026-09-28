@@ -237,33 +237,6 @@ The environment recorded during the final Neural Style Transfer experiments incl
 Exact execution times may vary depending on the available hardware and Google Colab runtime.
 
 ---
-
-# Techniques and Computer Science Concepts
-
-The project applies concepts from machine learning, deep learning, optimisation, computer vision, and quantitative experimental evaluation.
-
-The main technical concepts include:
-
-- convolutional neural networks;
-- transfer learning using pretrained VGG networks;
-- deep feature representations;
-- content reconstruction;
-- style representation using Gram matrices;
-- optimisation-based image generation;
-- gradient-based optimisation;
-- Adam optimisation;
-- L-BFGS optimisation;
-- hyperparameter experimentation;
-- image preprocessing;
-- quantitative image similarity measurement;
-- experimental comparison;
-- data cleaning and analysis; and
-- human evaluation.
-
-PyTorch is used as the main deep-learning framework.
-
----
-
 # Evaluation
 
 The project uses both **quantitative and qualitative evaluation**.
